@@ -1,0 +1,16 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+
+<msQueryDocument>
+	<msQueryCollection>
+		<query>
+			<key>dao.catalogo.escuela.selectAll</key>
+			<sql>SELECT ID_ESCUELA, NOMBRE FROM KATEKISTAFRIEND.CAT_ESCUELA</sql>
+		</query>
+
+		<query>
+			<key>dao.catalogo.nivelEducativo.selectAll</key>
+			<sql>SELECT ID_NIVELEDUCATIVO, DESCRIPCION, ID_ESCUELA, ORDEN FROM KATEKISTAFRIEND.CAT_NIVELEDUCATIVO WHERE ID_ESCUELA = #nivelEducativo#</sql>
+		</query>
+	</msQueryCollection>
+</msQueryDocument>
+

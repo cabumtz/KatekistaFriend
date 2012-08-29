@@ -1,0 +1,41 @@
+<RCC>
+    <qresource prefix="/icons32">
+        <file>icons/32/media-playback-start.png</file>
+        <file>icons/32/edit-find.png</file>
+        <file>icons/32/document-new.png</file>
+        <file>icons/32/document-print.png</file>
+        <file>icons/32/document-print-preview.png</file>
+        <file>icons/32/document-properties.png</file>
+        <file>icons/32/document-save.png</file>
+        <file>icons/32/document-save-as.png</file>
+        <file>icons/32/edit-select-all.png</file>
+        <file>icons/32/go-bottom.png</file>
+        <file>icons/32/go-down.png</file>
+        <file>icons/32/go-first.png</file>
+        <file>icons/32/go-jump.png</file>
+        <file>icons/32/go-last.png</file>
+        <file>icons/32/go-next.png</file>
+        <file>icons/32/go-top.png</file>
+        <file>icons/32/go-up.png</file>
+        <file>icons/32/list-add.png</file>
+        <file>icons/32/list-remove.png</file>
+        <file>icons/32/media-eject.png</file>
+        <file>icons/32/media-playback-pause.png</file>
+        <file>icons/32/media-playback-stop.png</file>
+        <file>icons/32/media-record.png</file>
+        <file>icons/32/media-seek-backward.png</file>
+        <file>icons/32/media-seek-forward.png</file>
+        <file>icons/32/media-skip-backward.png</file>
+        <file>icons/32/media-skip-forward.png</file>
+        <file>icons/32/process-stop.png</file>
+        <file>icons/32/system-lock-screen.png</file>
+        <file>icons/32/system-log-out.png</file>
+        <file>icons/32/system-search.png</file>
+        <file>icons/32/system-shutdown.png</file>
+        <file>icons/32/view-fullscreen.png</file>
+        <file>icons/32/view-refresh.png</file>
+        <file>icons/32/go-previous.png</file>
+        <file>icons/32/accessories-text-editor.png</file>
+        <file>icons/32/edit-delete.png</file>
+    </qresource>
+</RCC>

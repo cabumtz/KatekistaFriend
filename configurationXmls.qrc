@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/query">
+        <file>resources/xmls/querys/Catalogos.xml</file>
+    </qresource>
+</RCC>
